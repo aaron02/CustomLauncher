@@ -1,0 +1,5 @@
+{
+  "Portal": "bnet.ascemu.local:1119",
+  "ClearCacheBeforeLaunch": true,
+  "PlayPatchSound": true
+}

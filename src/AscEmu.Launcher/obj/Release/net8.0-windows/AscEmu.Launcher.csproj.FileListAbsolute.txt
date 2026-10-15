@@ -1,0 +1,40 @@
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\build\bin\ascemu_launcher\Release\AscEmu Launcher.exe
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\build\bin\ascemu_launcher\Release\AscEmu Launcher.deps.json
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\build\bin\ascemu_launcher\Release\AscEmu Launcher.runtimeconfig.json
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\build\bin\ascemu_launcher\Release\AscEmu Launcher.dll
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\build\bin\ascemu_launcher\Release\AscEmu Launcher.pdb
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\App.baml
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\App.g.cs
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu Launcher_MarkupCompile.cache
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu Launcher.g.resources
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu.Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu.Launcher.AssemblyInfoInputs.cache
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu.Launcher.AssemblyInfo.cs
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu.Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu Launcher.dll
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\refint\AscEmu Launcher.dll
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu Launcher.pdb
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu.Launcher.genruntimeconfig.cache
+C:\Users\Aaron\Downloads\AscEmu_Launcher_CMake_Project_v11_bnet_healthcheck\v8\src\AscEmu.Launcher\obj\Release\net8.0-windows\ref\AscEmu Launcher.dll
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\build\bin\ascemu_launcher\Release\AscEmu Launcher.exe
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\build\bin\ascemu_launcher\Release\AscEmu Launcher.deps.json
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\build\bin\ascemu_launcher\Release\AscEmu Launcher.runtimeconfig.json
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\build\bin\ascemu_launcher\Release\AscEmu Launcher.dll
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\build\bin\ascemu_launcher\Release\AscEmu Launcher.pdb
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\MainWindow.baml
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\App.baml
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\MainWindow.g.cs
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\App.g.cs
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu Launcher_MarkupCompile.cache
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu Launcher.g.resources
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu.Launcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu.Launcher.AssemblyInfoInputs.cache
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu.Launcher.AssemblyInfo.cs
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu.Launcher.csproj.CoreCompileInputs.cache
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu Launcher.dll
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\refint\AscEmu Launcher.dll
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu Launcher.pdb
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\AscEmu.Launcher.genruntimeconfig.cache
+D:\World of Warcraft Development\Sources\Forever Development\AscEmu_Launcher\src\AscEmu.Launcher\obj\Release\net8.0-windows\ref\AscEmu Launcher.dll
